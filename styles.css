@@ -162,14 +162,16 @@ p{
 }
 
 .videoFrame{
-    padding: 5px 0 30px;
+    padding: 1px 0 30px;
     font-size: xx-large;
-    width: 800px;
+    width: 815px;
     background-color: var(--titleColor);
-    margin-left: 35%;
+    margin: auto;
 }
 h3{
-width: 60%;
-margin-left: 10%;
+width: 70%;
+font-weight: normal;
+/* font-size: 1.5rem; */
+margin-left: 5%;
 text-align: left;
 }
