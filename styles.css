@@ -63,6 +63,14 @@ footer{
     padding: 20px 0;
 }
 
+.footLink{
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+}
+.footLink:hover{
+    color: black;
+}
+
 h1{
     font-size: 4.5rem;
     padding: 100px 0 0 0;
@@ -170,8 +178,7 @@ p{
 }
 h3{
 width: 70%;
-font-weight: normal;
-/* font-size: 1.5rem; */
+font-weight: bold;
 margin-left: 5%;
 text-align: left;
 }
